@@ -19,7 +19,7 @@ This is a sample QR Code and URL for an itinerary:
 <img src="assets/images/qr-code-url-example-1.svg" width=100 alt="QR Code for loading itinerary example 1" />
 Url: https://raw.githubusercontent.com/l5/curly-memory/main/trips/example-1/itinerary.yml
 
-# Example Use Cases
+## Example Use Cases
 * Tour group members can view an itinerary on their mobile devices
 * Walking tour guide: The tour guide has prepared the yaml file and carries its Url in printed form as a QR Code. When customers join the walking tour, they can download the app and scann the QR code, in order to see the scope of the tour and follow it.
 
