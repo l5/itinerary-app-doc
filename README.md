@@ -15,6 +15,7 @@ The app can load itineraries from static yaml files. A database or cloud account
 ## Sample
 
 This is a sample QR Code and URL for an itinerary:
+
 <img src="assets/images/qr-code-url-example-1.svg" width=100 alt="QR Code for loading itinerary example 1" />
 Url: https://raw.githubusercontent.com/l5/curly-memory/main/trips/example-1/itinerary.yml
 
