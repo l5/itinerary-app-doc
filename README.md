@@ -40,7 +40,7 @@ not yet :)
  
 ## Support
 
-Feel free to create an [Issue](https://github.com/l5/itinerary-app-doc/issues) in the GitHub documentation repository for support. Please be aware that support is limited.
+Feel free to create an [Issue](https://github.com/l5/itinerary-app-doc/issues) in the GitHub documentation repository for support or send an email to info@siriusplans.com . Please be aware that support is limited.
 
 ## Further Information
 
