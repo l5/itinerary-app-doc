@@ -26,15 +26,16 @@ This is a sample QR Code and URL for an itinerary:
 * Walking tour guide: The tour guide has prepared the yaml file and carries its Url in printed form as a QR Code. When customers join the walking tour, they can download the app and scann the QR code, in order to see the scope of the tour and follow it.
 
 ## Features
-* The user can maintain a list of trips via their URLs inside the app
-* The app can render and display information about trips and their itineraries
-* No user registration necessary
-* No user data stored on servers
-* Tour operators can maintain the itinerary via simple yaml files
+* The user can maintain a list of trips via their URLs inside the app.
+* The app can render and display information about trips and their itineraries.
+* No user registration necessary.
+* No user data stored on servers.
+* Tour operators can maintain the itinerary via simple yaml files.
+* Itineraries are cached on the device; it is not necessary to be online once the itineraries are loaded.
+* Itineraries can be viewed in multiple languages.
 
 ## Non-Features
 * There is no map inside the app
-* Itineraries are not cached; it is necessary to be online
 * Settings cannot be stored
 
 ## Known Issues
