@@ -12,12 +12,14 @@ The app can load itineraries from static yaml files. A database or cloud account
 2. Add itinerary Url (via copy & paste or scanning a QR Code)
 3. View itinerary
 
-## Sample
+## Example Itineraries
 
 This is a sample QR Code and URL for an itinerary:
 
-<img src="assets/images/qr-code-url-example-1.svg" width=100 alt="QR Code for loading itinerary example 1" />
-Url: https://raw.githubusercontent.com/l5/curly-memory/main/trips/example-1/itinerary.yml
+| Example | QR Code |
+|---|---|
+| [Example 1](https://raw.githubusercontent.com/l5/curly-memory/main/trips/example-1/itinerary.yml) (monolingual)| <img src="assets/images/qr-code-url-example-1.svg" width=100 alt="QR Code for loading itinerary example 1" /> |
+| [Example 2](https://raw.githubusercontent.com/l5/curly-memory/main/trips/example-2/itinerary.yml) (multilingual)| <img src="assets/images/qr-code-url-example-2.svg" width=100 alt="QR Code for loading itinerary example 2" /> |
 
 ## Example Use Cases
 * Tour group members can view an itinerary on their mobile devices
